@@ -626,7 +626,7 @@
      font-weight: 700;
 }
  .cart-list h6 a:hover{
-     color: #b0b435;
+     color: #05d5fa;
 }
  ul.cart-list p .price{
      font-weight: normal;
@@ -646,7 +646,7 @@
      transform: perspective(1px) translateZ(0);
      box-shadow: 0 0 1px rgba(0, 0, 0, 0);
      position: relative;
-     background: #b0b435;
+     background: #05d5fa;
      -webkit-transition-property: color;
      transition-property: color;
      -webkit-transition-duration: 0.3s;
@@ -2422,7 +2422,7 @@
      position: relative;
 }
  .contact-form-right .form-group .form-control:focus{
-     border: 1px solid #b0b435;
+     border: 1px solid #05d5fa;
      box-shadow: none;
 }
  .submit-button button{
