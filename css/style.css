@@ -1393,7 +1393,7 @@
      font-weight: 700;
 }
  .footer-link h4::before {
-     border-bottom: 3px solid #b0b435;
+     border-bottom: 3px solid #05d5fa;
      content: "";
      height: 3px;
      width: 100%;
@@ -2189,7 +2189,7 @@
 }
  .new-account-login h5 {
      font-size: 18px;
-     color: #1111111;
+     color: #111111;
      font-weight: 600;
 }
  .new-account-login h5 a:hover{
@@ -2302,7 +2302,7 @@
      animation: sonarEffect 1.3s ease-out 75ms;
 }
  .service-icon a:hover{
-     background: rgba(251, 183, 20, 1);
+     background: rgba(#05d5fa);
      -webkit-transform: scale(0.93);
      -moz-transform: scale(0.93);
      -ms-transform: scale(0.93);
