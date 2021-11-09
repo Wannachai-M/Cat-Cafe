@@ -3,10 +3,10 @@
 /* only small tablets */
  @media only screen and (min-width: 992px) and (max-width: 1199px) {
      nav.navbar.bootsnav ul.nav > li > a{
-         padding-top: 10px;
-		 padding-bottom: 10px;
-		 padding-left: 10px;
-		 padding-right: 30px;
+         padding-top: 30px;
+         padding-bottom: 30px;
+         padding-left: 10px;
+         padding-right: 30px;
     }
 }
  @media (min-width: 768px) and (max-width: 991px) {
@@ -14,7 +14,7 @@
          width: 100%;
     }
      .navbar-light .navbar-toggler{
-         border-color: #05d5fa;
+         border-color: #d33b33;
          color: #010101;
          border-radius: 0px;
          margin-right: 7px;
@@ -79,14 +79,14 @@
          width: 80%;
     }
      .navbar-light .navbar-toggler{
-         border-color: #05d5fa;
+         border-color: #d33b33;
          color: #010101;
          border-radius: 0px;
          margin-right: 7px;
          padding-top: 6px;
-         padding-bottom: 6px;
+         padding-top: 6px;
          float: left;
-         margin-top: 28px;
+         margin-top: 20px;
     }
      nav.navbar.bootsnav ul.nav > li > a{
          padding: 5px 15px;
@@ -120,7 +120,6 @@
      .filter-button-group button{
          font-size: 14px;
          padding: 5px 18px;
-		 margin-bottom: 3px;
     }
      .title-blog h3{
          font-size: 16px;
@@ -139,7 +138,7 @@
          font-size: 16px;
     }
      nav.navbar.bootsnav ul.nav li.dropdown ul.dropdown-menu > li > a:hover{
-         color: #05d5fa;
+         color: #d33b33;
     }
      .hover-team{
          margin-bottom: 30px;
@@ -192,26 +191,14 @@
      .right-phone-box{
          display: none;
     }
-	.text-slid-box{
-		display: none;
-	}
-	.login-box{
-		float: none;
-		text-align: center;
-		margin: 0 auto;
-	}
-	.offer-box-products{
-		margin-bottom: 30px;
-	}
 }
  @media only screen and (min-width: 280px) and (max-width: 599px) {
      .navbar-light .navbar-toggler{
-         border-color: #05d5fa;
+         border-color: #d33b33;
          color: #010101;
          border-radius: 0px;
          margin-right: 7px;
          padding-top: 6px;
-		 padding-bottom: 6px;
     }
      nav.navbar.bootsnav ul.nav > li > a{
          padding: 5px 15px;
@@ -242,10 +229,9 @@
          float: none;
          text-align: center;
     }
-.     .filter-button-group button{
+     .filter-button-group button{
          font-size: 14px;
          padding: 5px 18px;
-		 margin-bottom: 3px;
     }
      .title-blog h3{
          font-size: 16px;
@@ -264,7 +250,7 @@
          font-size: 16px;
     }
      nav.navbar.bootsnav ul.nav li.dropdown ul.dropdown-menu > li > a:hover{
-         color: #05d5fa;
+         color: #d33b33;
     }
      .hover-team{
          margin-bottom: 30px;
@@ -314,19 +300,5 @@
      .right-phone-box{
          display: none;
     }
-	.text-slid-box{
-		display: none;
-	}
-	.login-box{
-		float: none;
-		text-align: center;
-		margin: 0 auto;
-	}
-	.offer-box-products{
-		margin-bottom: 30px;
-	}
-	.side-menu p{
-		display: none;
-	}
 }
  

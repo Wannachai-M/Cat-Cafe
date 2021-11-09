@@ -125,11 +125,11 @@
 				nav: true
 			},
 			600: {
-				items: 3,
+				items: 4,
 				nav: true
 			},
 			1000: {
-				items: 5,
+				items: 8,
 				nav: true,
 				loop: true
 			}
@@ -142,7 +142,7 @@
 
 	$('.featured-products-box').owlCarousel({
 		loop: true,
-		margin: 15,
+		margin: 0,
 		dots: false,
 		autoplay: true,
 		autoplayTimeout: 3000,
